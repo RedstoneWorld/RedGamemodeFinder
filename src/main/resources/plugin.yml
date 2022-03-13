@@ -1,0 +1,5 @@
+name: GamemodeFinder
+version: '${project.version}'
+author: kx
+main: me.kekschen.gamemodefinder.Gamemodefinder
+api-version: 1.17
